@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding=utf-8
-'''
-FilePath     : /OneDiarization/egs/silero_vad/silero_vad.py
-Description  :
-Author       : Lim Zhi Hao
-Version      : 0.0.1
-LastEditors  : cwghnu cwg@hnu.edu.cn
-LastEditTime : 2023-04-26 15:26:43
-Copyright (c) 2023 by Lim Zhi Hao, All Rights Reserved.
-'''
-
 from typing import Dict, List, Union
 import numpy as np
 from torch import hub
